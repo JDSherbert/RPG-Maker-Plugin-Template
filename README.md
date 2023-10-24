@@ -4,7 +4,7 @@
 # RPG Maker Plugin Template
 
 <!-- Header Start -->
-<a href = ""> <img height="40" img width="40" src="https://cdn.simpleicons.org/js"> </a> 
+<a href = ""> <img height="40" img width="40" src="https://cdn.simpleicons.org/javascript"> </a> 
 <img align="right" alt="Stars Badge" src="https://img.shields.io/github/stars/jdsherbert/RPG-Maker-Plugin-Template?label=%E2%AD%90"/>
 <img align="right" alt="Forks Badge" src="https://img.shields.io/github/forks/jdsherbert/RPG-Maker-Plugin-Template?label=%F0%9F%8D%B4"/>
 <img align="right" alt="Watchers Badge" src="https://img.shields.io/github/watchers/jdsherbert/RPG-Maker-Plugin-Template?label=%F0%9F%91%81%EF%B8%8F"/>
@@ -15,7 +15,7 @@
 -----------------------------------------------------------------------
 
 <a href=""> 
-  <img align="left" alt="RPG Maker Plugin Template" src="https://img.shields.io/badge/RPG%20Maker%20Plugin%20Template-black?style=for-the-badge&logo=js&color=black&labelColor=black"> </a>
+  <img align="left" alt="RPG Maker Plugin Template" src="https://img.shields.io/badge/RPG%20Maker%20Plugin%20Template-black?style=for-the-badge&logo=javascript&color=black&labelColor=black"> </a>
   
 <a href="https://choosealicense.com/licenses/unlicense/"> 
   <img align="right" alt="License" src="https://img.shields.io/badge/License%20:%20Unlicense-black?style=for-the-badge&logo=unlicense&logoColor=white&color=black&labelColor=black"> </a>
