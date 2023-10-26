@@ -1,7 +1,8 @@
 //=============================================================================
-// TemplatePlugin.js
+// TemplatePluginMZ.js
 //=============================================================================
 /*:
+ * @target MZ
  * @plugindesc |Add a description here!|
  *
  * @author |Add your name here!|
