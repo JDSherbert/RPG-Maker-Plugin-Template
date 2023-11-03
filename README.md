@@ -24,7 +24,7 @@
 
 -----------------------------------------------------------------------
 ## Overview
-Some words about the project here-
+Simple RPG Maker Plugin template to help speed up creating new plugins.
 
 
 -----------------------------------------------------------------------
